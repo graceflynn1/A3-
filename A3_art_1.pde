@@ -3,10 +3,10 @@ background(252,252,244);
 
 strokeWeight(4);
 
-color blue = color(9,37,87);
-color yellow = color(211,179,15); 
+color blue = color(71, 90, 170);
+color yellow = color(243, 208, 95); 
 color black = color(0,0,0);
-color red = color(135,3,17);
+color red = color(154, 65, 61);
 
 {strokeWeight(20);
 stroke(yellow);
