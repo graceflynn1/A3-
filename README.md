@@ -8,7 +8,6 @@
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
@@ -47,7 +46,6 @@ Project is:  _complete_
 
 Room for improvement:
 - Elements of animation or interactivity could be added to Art 2: changing to inverted colours or interchanging the primary colours through a 'keyPressed' action.
-- 
 
 ## Contact
 Created by grace.flynn@student.uts.edu.au
