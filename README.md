@@ -29,8 +29,8 @@ List the ready features here:
 
 ## Screenshots
 <img width="993" alt="Screen Shot 2022-10-31 at 8 58 45 am" src="https://user-images.githubusercontent.com/116048552/198903555-d3976f2b-87d8-4dac-872f-d4ca3b97f566.png">
-![Uploading Screen Shot 2022-10-20 at 11.10.46 am.png…]()
-![Uploading Screen Shot 2022-10-31 at 8.59.09 am.png…]()
+[Uploading Screen Shot 2022-10-20 at 11.10.46 am.png…]()
+[Uploading Screen Shot 2022-10-31 at 8.59.09 am.png…]()
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
