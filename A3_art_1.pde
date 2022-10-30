@@ -1,7 +1,5 @@
 size(1000,800);
-background(252,252,244);
-
-strokeWeight(4);
+background(250, 244, 212);
 
 color blue = color(71, 90, 170);
 color yellow = color(243, 208, 95); 
