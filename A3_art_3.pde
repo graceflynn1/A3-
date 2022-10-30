@@ -1,6 +1,6 @@
 void setup(){
-  size(800,800);
-  background(250, 244, 212);
+ size(800,800);
+ background(250, 244, 212);
  strokeWeight(3);
 }
 
@@ -17,4 +17,9 @@ void draw(){
   fill(71, 90, 170);
   rect(random(0,width), random(0,height),20,75);
   filter(BLUR, 0.2);
+
+if (mousePressed == true) {
+line(mouseX,0,mouseX,height);
+line(0,mouseY,width, mouseY);
+}
 }
